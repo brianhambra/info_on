@@ -81,17 +81,5 @@
         "sector": "Banca",
         "riesgo_crediticio": "BB-",
         "calificadora": "S&P"
-    },
-    {
-        "ticker": "MERV - XMEV - CD47D - 24hs",
-        "emisor": "Cresud",
-        "vencimiento": "2028-11-15",
-        "tasa_cupon": 7,
-        "frecuencia": 2,
-        "lamina_minima": 1,
-        "tipo_pago": "bullet",
-        "sector": "Agro",
-        "riesgo_crediticio": "B",
-        "calificadora": "Fitch"
     }
 ]
