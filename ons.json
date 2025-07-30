@@ -1,0 +1,88 @@
+[
+    {
+        "ticker": "MERV - XMEV - IRCFD - 24hs",
+        "emisor": "IRSA",
+        "vencimiento": "2028-06-22",
+        "tasa_cupon": 8.75,
+        "frecuencia": 2,
+        "lamina_minima": 1,
+        "tipo_pago": "amortizable", 
+        "flujo_amortizacion": [
+            {"fecha": "2024-06-22", "capital": 17.5},
+            {"fecha": "2025-06-22", "capital": 17.5},
+            {"fecha": "2026-06-22", "capital": 17.5},
+            {"fecha": "2027-06-22", "capital": 17.5},
+            {"fecha": "2028-06-22", "capital": 30}
+        ]
+    },
+    {
+        "ticker": "MERV - XMEV - MGC9D - 24hs",
+        "emisor": "Pampa Energía",
+        "vencimiento": "2026-12-08",
+        "tasa_cupon": 5.75,
+        "frecuencia": 2,
+        "lamina_minima": 1,
+        "tipo_pago": "amortizable",
+        "flujo_amortizacion": [
+            {"fecha": "2024-12-08", "capital": 33},
+            {"fecha": "2025-12-08", "capital": 33},
+            {"fecha": "2026-12-08", "capital": 34}
+        ]
+    }, 
+    {
+        "ticker": "MERV - XMEV - YMCJD - 24hs",
+        "emisor": "YPF",
+        "vencimiento": "2031-01-17",
+        "tasa_cupon": 9.5,
+        "frecuencia": 2,
+        "lamina_minima": 1,
+        "tipo_pago": "amortizable", 
+        "flujo_amortizacion": [
+            {"fecha": "2026-07-17", "capital": 10},
+            {"fecha": "2027-01-17", "capital": 10},
+            {"fecha": "2027-07-17", "capital": 10},
+            {"fecha": "2028-01-17", "capital": 10},
+            {"fecha": "2028-07-17", "capital": 10},
+            {"fecha": "2029-01-17", "capital": 10},
+            {"fecha": "2029-07-17", "capital": 10},
+            {"fecha": "2030-01-17", "capital": 10},
+            {"fecha": "2030-07-17", "capital": 10},
+            {"fecha": "2031-01-17", "capital": 10}
+        ]
+    }, {
+        "ticker": "MERV - XMEV - BACGD - 24hs",
+        "emisor": "Banco Macro",
+        "vencimiento": "2029-06-23",
+        "tasa_cupon": 8,
+        "frecuencia": 2,
+        "lamina_minima": 1000,
+        "tipo_pago": "bullet"
+    },
+    {
+        "ticker": "MERV - XMEV - BYCHD - 24hs",
+        "emisor": "Banco Galicia",
+        "vencimiento": "2028-10-10",
+        "tasa_cupon": 3.89,
+        "frecuencia": 2,
+        "lamina_minima": 1000,
+        "tipo_pago": "bullet"
+    },
+    {
+        "ticker": "MERV - XMEV - CD47D - 24hs",
+        "emisor": "Cresud",
+        "vencimiento": "2028-11-15",
+        "tasa_cupon": 7,
+        "frecuencia": 2,
+        "lamina_minima": 1,
+        "tipo_pago": "bullet"
+    },
+    {
+        "ticker": "MERV - XMEV - CS48D - 24hs",
+        "emisor": "",
+        "vencimiento": "",
+        "tasa_cupon": 0.0,
+        "frecuencia": 2,
+        "lamina_minima": 100,
+        "tipo_pago": "bullet"
+    }
+]
