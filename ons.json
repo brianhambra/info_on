@@ -81,5 +81,17 @@
         "sector": "Banca",
         "riesgo_crediticio": "BB-",
         "calificadora": "S&P"
+    },
+    {
+        "ticker": "MERV - XMEV - DNC3D - 24hs",
+        "emisor": "Edenor",
+        "vencimiento": "2028-10-10",
+        "tasa_cupon": 9.75,
+        "frecuencia": 2,
+        "lamina_minima": 1,
+        "tipo_pago": "bullet",
+        "sector": "Energía",
+        "riesgo_crediticio": "BB-",
+        "calificadora": "S&P"
     }
 ]
