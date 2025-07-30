@@ -7,6 +7,9 @@
         "frecuencia": 2,
         "lamina_minima": 1,
         "tipo_pago": "amortizable", 
+        "sector": "Real Estate",
+        "riesgo_crediticio": "B+",
+        "calificadora": "Fitch",
         "flujo_amortizacion": [
             {"fecha": "2024-06-22", "capital": 17.5},
             {"fecha": "2025-06-22", "capital": 17.5},
@@ -23,6 +26,9 @@
         "frecuencia": 2,
         "lamina_minima": 1,
         "tipo_pago": "amortizable",
+        "sector": "Energía",
+        "riesgo_crediticio": "BB-",
+        "calificadora": "S&P",
         "flujo_amortizacion": [
             {"fecha": "2024-12-08", "capital": 33},
             {"fecha": "2025-12-08", "capital": 33},
@@ -37,6 +43,9 @@
         "frecuencia": 2,
         "lamina_minima": 1,
         "tipo_pago": "amortizable", 
+        "sector": "Energía",
+        "riesgo_crediticio": "B",
+        "calificadora": "Moody's",
         "flujo_amortizacion": [
             {"fecha": "2026-07-17", "capital": 10},
             {"fecha": "2027-01-17", "capital": 10},
@@ -56,7 +65,10 @@
         "tasa_cupon": 8,
         "frecuencia": 2,
         "lamina_minima": 1000,
-        "tipo_pago": "bullet"
+        "tipo_pago": "bullet",
+        "sector": "Banca",
+        "riesgo_crediticio": "BB",
+        "calificadora": "Fitch"
     },
     {
         "ticker": "MERV - XMEV - BYCHD - 24hs",
@@ -65,7 +77,10 @@
         "tasa_cupon": 3.89,
         "frecuencia": 2,
         "lamina_minima": 1000,
-        "tipo_pago": "bullet"
+        "tipo_pago": "bullet",
+        "sector": "Banca",
+        "riesgo_crediticio": "BB-",
+        "calificadora": "S&P"
     },
     {
         "ticker": "MERV - XMEV - CD47D - 24hs",
@@ -74,7 +89,10 @@
         "tasa_cupon": 7,
         "frecuencia": 2,
         "lamina_minima": 1,
-        "tipo_pago": "bullet"
+        "tipo_pago": "bullet",
+        "sector": "Agro",
+        "riesgo_crediticio": "B",
+        "calificadora": "Fitch"
     },
     {
         "ticker": "MERV - XMEV - CS48D - 24hs",
@@ -83,6 +101,9 @@
         "tasa_cupon": 0.0,
         "frecuencia": 2,
         "lamina_minima": 100,
-        "tipo_pago": "bullet"
+        "tipo_pago": "bullet",
+        "sector": "",
+        "riesgo_crediticio": "",
+        "calificadora": ""
     }
 ]
