@@ -93,17 +93,5 @@
         "sector": "Agro",
         "riesgo_crediticio": "B",
         "calificadora": "Fitch"
-    },
-    {
-        "ticker": "MERV - XMEV - CS48D - 24hs",
-        "emisor": "",
-        "vencimiento": "",
-        "tasa_cupon": 0.0,
-        "frecuencia": 2,
-        "lamina_minima": 100,
-        "tipo_pago": "bullet",
-        "sector": "",
-        "riesgo_crediticio": "",
-        "calificadora": ""
     }
 ]
