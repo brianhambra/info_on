@@ -1,0 +1,62 @@
+{
+  "DLR/JUL25": {
+    "vencimiento": "2025-07-31",
+    "banda_inferior": 1134.87,
+    "banda_superior": 1588.82
+  },
+  "DLR/AGO25": {
+    "vencimiento": "2025-08-31",
+    "banda_inferior": 1146.22,
+    "banda_superior": 1604.71
+  },
+  "DLR/SEP25": {
+    "vencimiento": "2025-09-30",
+    "banda_inferior": 1157.69,
+    "banda_superior": 1620.75
+  },
+  "DLR/OCT25": {
+    "vencimiento": "2025-10-31",
+    "banda_inferior": 1169.27,
+    "banda_superior": 1636.96
+  },
+  "DLR/NOV25": {
+    "vencimiento": "2025-11-30",
+    "banda_inferior": 1180.97,
+    "banda_superior": 1653.33
+  },
+  "DLR/DIC25": {
+    "vencimiento": "2025-12-31",
+    "banda_inferior": 1192.78,
+    "banda_superior": 1669.86
+  },
+  "DLR/ENE26": {
+    "vencimiento": "2026-01-31",
+    "banda_inferior": 1204.71,
+    "banda_superior": 1686.56
+  },
+  "DLR/FEB26": {
+    "vencimiento": "2026-02-28",
+    "banda_inferior": 1216.76,
+    "banda_superior": 1703.43
+  },
+  "DLR/MAR26": {
+    "vencimiento": "2026-03-31",
+    "banda_inferior": 1228.93,
+    "banda_superior": 1720.46
+  },
+  "DLR/ABR26": {
+    "vencimiento": "2026-04-30",
+    "banda_inferior": 1241.22,
+    "banda_superior": 1737.67
+  },
+  "DLR/MAY26": {
+    "vencimiento": "2026-05-31",
+    "banda_inferior": 1253.63,
+    "banda_superior": 1755.05
+  },
+  "DLR/JUN26": {
+    "vencimiento": "2026-06-30",
+    "banda_inferior": 1266.17,
+    "banda_superior": 1772.60
+  }
+}
