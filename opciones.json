@@ -1,50 +1,51 @@
 {
     "MERV - XMEV - AL30 - 24hs": {
       "strikes": {
-        "MERV - XMEV - A30C80000O - 24hs" : 80000,
-        "MERV - XMEV - A30C82000O - 24hs" : 82000,
-        "MERV - XMEV - A30C84000O - 24hs" : 84000,
-        "MERV - XMEV - A30C86000O - 24hs" : 86000,
-        "MERV - XMEV - A30C88000O - 24hs" : 88000,
-        "MERV - XMEV - A30V80000O - 24hs" : 80000,
-        "MERV - XMEV - A30V82000O - 24hs" : 82000,
-        "MERV - XMEV - A30V84000O - 24hs" : 84000,
-        "MERV - XMEV - A30V86000O - 24hs" : 86000,
-        "MERV - XMEV - A30V88000O - 24hs" : 88000
+        "MERV - XMEV - A30C80000O - 24hs": 80000,
+        "MERV - XMEV - A30C82000O - 24hs": 82000,
+        "MERV - XMEV - A30C84000O - 24hs": 84000,
+        "MERV - XMEV - A30C86000O - 24hs": 86000,
+        "MERV - XMEV - A30C88000O - 24hs": 88000,
+        "MERV - XMEV - A30V80000O - 24hs": 80000,
+        "MERV - XMEV - A30V82000O - 24hs": 82000,
+        "MERV - XMEV - A30V84000O - 24hs": 84000,
+        "MERV - XMEV - A30V86000O - 24hs": 86000,
+        "MERV - XMEV - A30V88000O - 24hs": 88000
       }
     },
     "MERV - XMEV - COME - 24hs": {
-        "strikes": {
-            "MERV - XMEV - COMC100.OC - 24hs" : 100,
-            "MERV - XMEV - COMC110.OC - 24hs" : 110,
-            "MERV - XMEV - COMC120.OC - 24hs" : 120,
-            "MERV - XMEV - COMC130.OC - 24hs" : 130,
-            "MERV - XMEV - COMC150.OC - 24hs" : 150,
-            "MERV - XMEV - COMC160.OC - 24hs" : 160,
-            "MERV - XMEV - COMC170.OC - 24hs" : 170,
-            "MERV - XMEV - COMC190.OC - 24hs" : 190,
-            "MERV - XMEV - COMC200.OC - 24hs" : 200,
-            "MERV - XMEV - COMC10929O - 24hs" : 109.29,
-            "MERV - XMEV - COMC16929O - 24hs" : 169.29,
-            "MERV - XMEV - COMC18929O - 24hs" : 189.29,
-            "MERV - XMEV - COMC19929O - 24hs" : 199.29,
-            "MERV - XMEV - COMC99295O - 24hs" : 99.295,
-            "MERV - XMEV - COMV100.OC - 24hs" : 100,
-            "MERV - XMEV - COMV110.OC - 24hs" : 110,
-            "MERV - XMEV - COMV120.OC - 24hs" : 120,
-            "MERV - XMEV - COMV130.OC - 24hs" : 130,
-            "MERV - XMEV - COMV150.OC - 24hs" : 150,
-            "MERV - XMEV - COMV160.OC - 24hs" : 160,
-            "MERV - XMEV - COMV170.OC - 24hs" : 170,
-            "MERV - XMEV - COMV190.OC - 24hs" : 190,
-            "MERV - XMEV - COMV200.OC - 24hs" : 200,
-            "MERV - XMEV - COMV10929O - 24hs" : 109.29,
-            "MERV - XMEV - COMV16929O - 24hs" : 169.29,
-            "MERV - XMEV - COMV18929O - 24hs" : 189.29,
-            "MERV - XMEV - COMV19929O - 24hs" : 199.29,
-            "MERV - XMEV - COMV99295O - 24hs" : 99.295            
-      },
-      "MERV - XMEV - GGAL - 24hs": {
+      "strikes": {
+        "MERV - XMEV - COMC100.OC - 24hs": 100,
+        "MERV - XMEV - COMC110.OC - 24hs": 110,
+        "MERV - XMEV - COMC120.OC - 24hs": 120,
+        "MERV - XMEV - COMC130.OC - 24hs": 130,
+        "MERV - XMEV - COMC150.OC - 24hs": 150,
+        "MERV - XMEV - COMC160.OC - 24hs": 160,
+        "MERV - XMEV - COMC170.OC - 24hs": 170,
+        "MERV - XMEV - COMC190.OC - 24hs": 190,
+        "MERV - XMEV - COMC200.OC - 24hs": 200,
+        "MERV - XMEV - COMC10929O - 24hs": 109.29,
+        "MERV - XMEV - COMC16929O - 24hs": 169.29,
+        "MERV - XMEV - COMC18929O - 24hs": 189.29,
+        "MERV - XMEV - COMC19929O - 24hs": 199.29,
+        "MERV - XMEV - COMC99295O - 24hs": 99.295,
+        "MERV - XMEV - COMV100.OC - 24hs": 100,
+        "MERV - XMEV - COMV110.OC - 24hs": 110,
+        "MERV - XMEV - COMV120.OC - 24hs": 120,
+        "MERV - XMEV - COMV130.OC - 24hs": 130,
+        "MERV - XMEV - COMV150.OC - 24hs": 150,
+        "MERV - XMEV - COMV160.OC - 24hs": 160,
+        "MERV - XMEV - COMV170.OC - 24hs": 170,
+        "MERV - XMEV - COMV190.OC - 24hs": 190,
+        "MERV - XMEV - COMV200.OC - 24hs": 200,
+        "MERV - XMEV - COMV10929O - 24hs": 109.29,
+        "MERV - XMEV - COMV16929O - 24hs": 169.29,
+        "MERV - XMEV - COMV18929O - 24hs": 189.29,
+        "MERV - XMEV - COMV19929O - 24hs": 199.29,
+        "MERV - XMEV - COMV99295O - 24hs": 99.295
+      }
+    },
+    "MERV - XMEV - GGAL - 24hs": {
         "strikes": {
             "MERV - XMEV - GFGC10100O - 24hs" : 10100,
             "MERV - XMEV - GFGC32452O - 24hs" : 3245.2,
@@ -214,10 +215,10 @@
             "MERV - XMEV - GFGV9500OC - 24hs" : 9500,
             "MERV - XMEV - GFGV97788O - 24hs" : 9778.8,
             "MERV - XMEV - GFGV97789O - 24hs" : 9778.9,
-            "MERV - XMEV - GFGV9800OC - 24hs" : 9800            
-        }
-      },
-      "MERV - XMEV - YPFD - 24hs": {
+            "MERV - XMEV - GFGV9800OC - 24hs" : 9800
+      }
+    },
+    "MERV - XMEV - YPFD - 24hs": {
         "strikes": {
             "MERV - XMEV - YPFC24000O - 24hs" : 24000,
             "MERV - XMEV - YPFC25500O - 24hs" : 25500,
@@ -256,7 +257,8 @@
             "MERV - XMEV - YPFV47500O - 24hs" : 47500,
             "MERV - XMEV - YPFV49000O - 24hs" : 49000,
             "MERV - XMEV - YPFV52000O - 24hs" : 52000,
-            "MERV - XMEV - YPFV55000O - 24hs" : 55000            
-        }
+            "MERV - XMEV - YPFV55000O - 24hs" : 55000 
       }
+    }
   }
+  
