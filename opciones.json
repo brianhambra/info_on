@@ -15,7 +15,7 @@
     },
     "MERV - XMEV - COME - 24hs": {
       "strikes": {
-        "MERV - XMEV - COMC9930OC - 24hs": 99.30,
+        "MERV - XMEV - COMC99295O - 24hs": 99.295,
         "MERV - XMEV - COMC10929O - 24hs": 109.29,
         "MERV - XMEV - COMC120.OC - 24hs": 120,
         "MERV - XMEV - COMC130.OC - 24hs": 130,
@@ -24,7 +24,7 @@
         "MERV - XMEV - COMC16929O - 24hs": 169.29,
         "MERV - XMEV - COMC18929O - 24hs": 189.29,
         "MERV - XMEV - COMC19929O - 24hs": 199.29,
-        "MERV - XMEV - COMV9930OC - 24hs": 99.30,
+        "MERV - XMEV - COMV99295O - 24hs": 99.295,
         "MERV - XMEV - COMV10929O - 24hs": 109.29,
         "MERV - XMEV - COMV120.OC - 24hs": 120,
         "MERV - XMEV - COMV130.OC - 24hs": 130,
@@ -100,5 +100,6 @@
       }
     }
 }
+
 
 
