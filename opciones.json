@@ -32,7 +32,7 @@
         "MERV - XMEV - COMV160.OC - 24hs": 160,
         "MERV - XMEV - COMV16929O - 24hs": 169.29,
         "MERV - XMEV - COMV18929O - 24hs": 189.29,
-        "MERV - XMEV - COMV19929O - 24hs": 199.29,
+        "MERV - XMEV - COMV19929O - 24hs": 199.29
       }
     },
     "MERV - XMEV - GGAL - 24hs": {
@@ -96,8 +96,9 @@
         "MERV - XMEV - YPFV44500O - 24hs" : 44500,
         "MERV - XMEV - YPFV46000O - 24hs" : 46000,
         "MERV - XMEV - YPFV47500O - 24hs" : 47500,
-        "MERV - XMEV - YPFV55000O - 24hs" : 55000,
+        "MERV - XMEV - YPFV55000O - 24hs" : 55000
       }
     }
 }
+
 
