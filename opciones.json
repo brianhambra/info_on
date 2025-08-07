@@ -79,7 +79,7 @@
             "MERV - XMEV - GFGV61785O - 24hs" : 6178.5,
             "MERV - XMEV - GFGV59573O - 24hs" : 5957.3,
             "MERV - XMEV - GFGV56573O - 24hs" : 5657.3,
-            "MERV - XMEV - GFGV50788O - 24hs" : 5078.8,
+            "MERV - XMEV - GFGV53785O - 24hs" : 5378.5,
             "MERV - XMEV - GFGV50573O - 24hs" : 5057.3,
             "MERV - XMEV - GFGV47785O - 24hs" : 4778.5,
             "MERV - XMEV - GFGV38785O - 24hs" : 3878.5
@@ -104,6 +104,7 @@
       }
     }
 }
+
 
 
 
