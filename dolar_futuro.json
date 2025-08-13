@@ -1,63 +1,64 @@
 {
   "DLR/AGO25": {
     "vencimiento": "2025-08-31",
-    "banda_inferior": 960.60,
-    "banda_superior": 1456.85
+    "banda_inferior": 955,
+    "banda_superior": 1465
   },
   "DLR/SEP25": {
     "vencimiento": "2025-09-30",
-    "banda_inferior": 950.99,
-    "banda_superior": 1471.41
+    "banda_inferior": 945,
+    "banda_superior": 1480
   },
   "DLR/OCT25": {
     "vencimiento": "2025-10-31",
-    "banda_inferior": 941.48,
-    "banda_superior": 1486.13
+    "banda_inferior": 936,
+    "banda_superior": 1494
   },
   "DLR/NOV25": {
     "vencimiento": "2025-11-30",
-    "banda_inferior": 932.07,
-    "banda_superior": 1500.99
+    "banda_inferior": 927,
+    "banda_superior": 1509
   },
   "DLR/DIC25": {
     "vencimiento": "2025-12-31",
-    "banda_inferior": 922.74,
-    "banda_superior": 1516.00
+    "banda_inferior": 917,
+    "banda_superior": 1524
   },
   "DLR/ENE26": {
     "vencimiento": "2026-01-31",
-    "banda_inferior": 913.52,
-    "banda_superior": 1531.16
+    "banda_inferior": 908,
+    "banda_superior": 1540
   },
   "DLR/FEB26": {
     "vencimiento": "2026-02-28",
-    "banda_inferior": 904.38,
-    "banda_superior": 1546.47
+    "banda_inferior": 899,
+    "banda_superior": 1555
   },
   "DLR/MAR26": {
     "vencimiento": "2026-03-31",
-    "banda_inferior": 895.34,
-    "banda_superior": 1561.94
+    "banda_inferior": 890,
+    "banda_superior": 1571
   },
   "DLR/ABR26": {
     "vencimiento": "2026-04-30",
-    "banda_inferior": 886.38,
-    "banda_superior": 1577.56
+    "banda_inferior": 881,
+    "banda_superior": 1586
   },
   "DLR/MAY26": {
     "vencimiento": "2026-05-31",
-    "banda_inferior": 877.52,
-    "banda_superior": 1593.33
+    "banda_inferior": 872,
+    "banda_superior": 1602
   },
   "DLR/JUN26": {
     "vencimiento": "2026-06-30",
-    "banda_inferior": 868.75,
-    "banda_superior": 1609.26
+    "banda_inferior": 864,
+    "banda_superior": 1618
   }, 
   "DLR/JUL26": {
     "vencimiento": "2026-07-31",
-    "banda_inferior": 860.06,
-    "banda_superior": 1625.35
+    "banda_inferior": 855,
+    "banda_superior": 1634
   }
 }
+
 
