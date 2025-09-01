@@ -1,9 +1,4 @@
 {
-  "DLR/AGO25": {
-    "vencimiento": "2025-08-29",
-    "banda_inferior": 955,
-    "banda_superior": 1465
-  },
   "DLR/SEP25": {
     "vencimiento": "2025-09-30",
     "banda_inferior": 945,
@@ -58,8 +53,13 @@
     "vencimiento": "2026-07-31",
     "banda_inferior": 855,
     "banda_superior": 1634
+  }, "DLR/AGO26": {
+    "vencimiento": "2026-08-31",
+    "banda_inferior": 846,
+    "banda_superior": 1651
   }
 }
+
 
 
 
